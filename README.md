@@ -1,4 +1,4 @@
-## A superpower or the ability to turn ideas into code and this very powerfull that helped me build my own search engine is MAVEN.
+### 1.   A superpower or the ability to turn ideas into code and this very powerfull that helped me build my own search engine is MAVEN.
 
 1. Maven made it easy to manage and integrate third-party libraries like the MySQL JDBC driver, JSoup and servlet APIs through the pom.xml, eliminating manual JAR handling.
 
